@@ -1,5 +1,7 @@
 package Coding_Assignments;
 
+import java.util.Arrays;
+
 public class SecondHighest_SalaryArray {
 
     public static void main(String[] args) {
@@ -23,6 +25,16 @@ public class SecondHighest_SalaryArray {
         }
         System.out.println(highest);
         System.out.println(second_highest);
+
+        //Alternate Way Using Array.sort() method
+
+        Arrays.sort(salaries);
+
+        int highest_sal = salaries[salaries.length-1];
+        int second_highestSal = salaries[salaries.length-2];
+
+        System.out.println(highest_sal);
+        System.out.println(second_highestSal);
 
     }
 }
