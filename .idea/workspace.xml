@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb8b73de-99a3-45fd-8498-4a41f9bd155d" name="Changes" comment="Commit FizzBuzz, Leap Year and Triangle Classifier Program">
-      <change afterPath="$PROJECT_DIR$/src/Coding_Assignments/FizzBuzz_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Assignments/LeapYear_Checker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coding_Assignments/Triangle_Classifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab137.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab138.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab140.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab145.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab146.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab147.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab148.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab149.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab150.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab153.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +54,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LeapYear_Checker">
-    <configuration name="FizzBuzz_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coding_Assignments.FizzBuzz_Test" />
+  <component name="RunManager" selected="Application.Lab153">
+    <configuration name="Lab145" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_27072024.Lab145" />
       <module name="LearningATB7x_JavaPrograms" />
+      <option name="PROGRAM_PARAMETERS" value="Palak Yadav" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coding_Assignments.*" />
+          <option name="PATTERN" value="ex_27072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab131" />
+    <configuration name="Lab147" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_27072024.Lab147" />
       <module name="LearningATB7x_JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_21072024.*" />
+          <option name="PATTERN" value="ex_27072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab133" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab133" />
+    <configuration name="Lab149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_27072024.Lab149" />
       <module name="LearningATB7x_JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_21072024.*" />
+          <option name="PATTERN" value="ex_27072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeapYear_Checker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coding_Assignments.LeapYear_Checker" />
+    <configuration name="Lab150" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_27072024.Lab150" />
       <module name="LearningATB7x_JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coding_Assignments.*" />
+          <option name="PATTERN" value="ex_27072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangle_Classifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coding_Assignments.Triangle_Classifier" />
+    <configuration name="Lab153" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_27072024.Lab153" />
       <module name="LearningATB7x_JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coding_Assignments.*" />
+          <option name="PATTERN" value="ex_27072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeapYear_Checker" />
-        <item itemvalue="Application.Triangle_Classifier" />
-        <item itemvalue="Application.FizzBuzz_Test" />
-        <item itemvalue="Application.Lab133" />
-        <item itemvalue="Application.Lab131" />
+        <item itemvalue="Application.Lab153" />
+        <item itemvalue="Application.Lab150" />
+        <item itemvalue="Application.Lab149" />
+        <item itemvalue="Application.Lab147" />
+        <item itemvalue="Application.Lab145" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1721578972032</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit FizzBuzz, Leap Year and Triangle Classifier Program">
+      <created>1722016320194</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722016320194</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
