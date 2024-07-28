@@ -8,7 +8,7 @@ public class SecondHighest_SalaryArray {
 
         //Find Second Highest Salary in array
 
-        int[] salaries = {7, 10, 4, 13, 25, 18, 9, 8, 17};
+        int[] salaries = {7, 10, 4, 21, 25, 18, 49, 8, 17};
 
         int highest = salaries[0];
         int second_highest = salaries[0];
@@ -16,10 +16,10 @@ public class SecondHighest_SalaryArray {
         for (int i = 0; i < salaries.length; i++) {
 
             if(salaries[i]>highest){
+
+                second_highest = highest;
                 highest = salaries[i];
-            }
-            else if(salaries[i] > second_highest){
-                second_highest = salaries[i];
+
             }
 
         }

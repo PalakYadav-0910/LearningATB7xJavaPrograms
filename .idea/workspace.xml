@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb8b73de-99a3-45fd-8498-4a41f9bd155d" name="Changes" comment="Commit Left Triangle &amp; Right Triangle star pattern and second highest saley in an array programs.">
+    <list default="true" id="bb8b73de-99a3-45fd-8498-4a41f9bd155d" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/$Lab010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Pramod123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Pramod_Dutta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/_Lab009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/BuildingBP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab154.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab155.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab156.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab159.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Coding_Assignments/SecondHighest_SalaryArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Assignments/SecondHighest_SalaryArray.java" afterDir="false" />
     </list>
@@ -38,13 +67,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SecondHighest_SalaryArray">
-    <configuration name="Lab150" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_27072024.Lab150" />
+  <component name="RunManager" selected="Application.Lab013">
+    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_28072024.Animal" />
       <module name="LearningATB7x_JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_27072024.*" />
+          <option name="PATTERN" value="ex_28072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,12 +81,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab153" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_27072024.Lab153" />
+    <configuration name="Lab013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab013" />
       <module name="LearningATB7x_JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_27072024.*" />
+          <option name="PATTERN" value="ex_07072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab014" />
+      <module name="LearningATB7x_JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,19 +109,6 @@
     </configuration>
     <configuration name="LeftTriangle_StarPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coding_Assignments.LeftTriangle_StarPattern" />
-      <module name="LearningATB7x_JavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Coding_Assignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RightTriangle_StarPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coding_Assignments.RightTriangle_StarPattern" />
       <module name="LearningATB7x_JavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab013" />
+        <item itemvalue="Application.Lab014" />
+        <item itemvalue="Application.Animal" />
         <item itemvalue="Application.SecondHighest_SalaryArray" />
         <item itemvalue="Application.LeftTriangle_StarPattern" />
-        <item itemvalue="Application.RightTriangle_StarPattern" />
-        <item itemvalue="Application.Lab153" />
-        <item itemvalue="Application.Lab150" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1722079763012</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit">
+      <created>1722080283293</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722080283293</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +214,7 @@
     <MESSAGE value="Commit FizzBuzz, Leap Year and Triangle Classifier Program" />
     <MESSAGE value="Commit ex_27072024 files" />
     <MESSAGE value="Commit Left Triangle &amp; Right Triangle star pattern and second highest saley in an array programs." />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Left Triangle &amp; Right Triangle star pattern and second highest saley in an array programs." />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
