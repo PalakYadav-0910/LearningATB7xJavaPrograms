@@ -1,38 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb8b73de-99a3-45fd-8498-4a41f9bd155d" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/$Lab010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Pramod123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Pramod_Dutta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/_Lab009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/BuildingBP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab154.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab156.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab157.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab158.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab159.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Assignments/SecondHighest_SalaryArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Assignments/SecondHighest_SalaryArray.java" afterDir="false" />
+    <list default="true" id="bb8b73de-99a3-45fd-8498-4a41f9bd155d" name="Changes" comment="Commit README.md">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +164,21 @@
       <option name="project" value="LOCAL" />
       <updated>1722080283293</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit ex_28072024 and ex_07072024">
+      <created>1722179289045</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722179289045</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Commit README.md">
+      <created>1722179435929</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722179435929</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,6 +199,8 @@
     <MESSAGE value="Commit ex_27072024 files" />
     <MESSAGE value="Commit Left Triangle &amp; Right Triangle star pattern and second highest saley in an array programs." />
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="Commit ex_28072024 and ex_07072024" />
+    <MESSAGE value="Commit README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit README.md" />
   </component>
 </project>
