@@ -1,5 +1,5 @@
 Java Programs
-Author - Pramod
+Author - Palak Yadav
 
 This Repo contains the source code for the Exercise that we have done in the ATB7x batch
 
@@ -12,6 +12,7 @@ FILE IO
 Other misc concepts
 Exception
 
-https://github.com/user-attachments/files/16118466/Core.Java.pdf
+[Core Java.pdf](https://github.com/user-attachments/files/16118466/Core.Java.pdf)
 
-https://github.com/user-attachments/files/16118469/Java.Notes.-.TheTestingAcademy.Pramod.Sir.1.pdf
+
+[[Java Notes] - TheTestingAcademy (Pramod Sir) (1).pdf](https://github.com/user-attachments/files/16118469/Java.Notes.-.TheTestingAcademy.Pramod.Sir.1.pdf)
