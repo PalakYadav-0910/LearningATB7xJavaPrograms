@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb8b73de-99a3-45fd-8498-4a41f9bd155d" name="Changes" comment="Commit 04082024 files">
-      <change afterPath="$PROJECT_DIR$/src/august/ex_10082024/RealTimeInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_10082024/ecap/ICICIBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_10082024/ecap/Lab178.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_10082024/ecap/Lab179.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_10082024/ecap/Lab180.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_10082024/ecap/VWOLoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_10082024/poly/methodoveriding/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_10082024/poly/methodoveriding/Hound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_10082024/poly/methodoveriding/Lab182.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_10082024/poly/methodoverloading/Lab181.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_10082024/poly/methodoverloading/MathOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_10082024/superthiskeyword/Lab183.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_10082024/superthiskeyword/Lab184.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/august/ex_10082024/superthiskeyword/Lab185.java" afterDir="false" />
+    <list default="true" id="bb8b73de-99a3-45fd-8498-4a41f9bd155d" name="Changes" comment="Commit 10082024 files">
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/Lab186.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/RealLIFEex/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/RealLIFEex/CHROME.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/RealLIFEex/FIREFOX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/RealLIFEex/GrandBaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/RealLIFEex/Lab189.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exLoan/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exLoan/Lab188.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/exLoan/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_interface/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_interface/Lab190.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_interface/Lab191.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_interface/WagonR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_interface/ex2/CarC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_interface/ex2/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_interface/ex2/PramodA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_interface/ex3/Lab192.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_interface/multipleinheritance/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_interface/multipleinheritance/Lab192.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_interface/multipleinheritance/Mother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/ex_interface/multipleinheritance/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/excar/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/excar/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/excar/GearBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/excar/Keys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/excar/Lab187.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/excar/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/excar/WagonR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/excar/i10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/staticKeyword/Lab193.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/august/ex_11082024/staticKeyword/Lab194.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +43,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -54,7 +72,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab169">
+  <component name="RunManager" selected="Application.Lab182">
     <configuration name="Lab161" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="july.ex_28072024.Lab161" />
       <module name="LearningATB7x_JavaPrograms" />
@@ -107,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="july.ex_07072024.Lab013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="july.ex_07072024.Lab013" />
+    <configuration name="Lab182" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="august.ex_10082024.poly.methodoveriding.Lab182" />
       <module name="LearningATB7x_JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="july.ex_07072024.*" />
+          <option name="PATTERN" value="august.ex_10082024.poly.methodoveriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab182" />
         <item itemvalue="Application.Lab169" />
         <item itemvalue="Application.Lab168" />
         <item itemvalue="Application.Lab163" />
         <item itemvalue="Application.Lab161" />
-        <item itemvalue="Application.july.ex_07072024.Lab013" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1722791147860</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Commit 10082024 files">
+      <created>1723297258595</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723297258595</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,6 +251,7 @@
     <MESSAGE value="Commit ex_28072024 and ex_07072024" />
     <MESSAGE value="Commit README.md" />
     <MESSAGE value="Commit 04082024 files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 04082024 files" />
+    <MESSAGE value="Commit 10082024 files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 10082024 files" />
   </component>
 </project>
